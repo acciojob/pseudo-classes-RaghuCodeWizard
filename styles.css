@@ -2,11 +2,6 @@
   background-color: rgb(135, 206, 235);
 }
 
-.container {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 20px;
-}
 
 article p:first-child {
   color: white;
@@ -24,10 +19,6 @@ article p:last-child {
   padding: 10px;
 }
 
-ul {
-  list-style: none;
-  padding: 0;
-}
 
 ul li {
   background-color: gray;
